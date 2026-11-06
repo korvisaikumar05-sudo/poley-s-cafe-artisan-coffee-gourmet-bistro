@@ -1,0 +1,6 @@
+{
+  "name": "Poley's Cafe - Artisan Coffee & Gourmet Bistro",
+  "description": "Premium cafe & bistro in Hastinapuram, Hyderabad featuring artisanal coffee brews, wood-fired styled pizzas, vibrant pastas, and cozy rooftop vibes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
